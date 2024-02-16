@@ -4,8 +4,8 @@ print (' ------------ ')
 hr = float(input(' Valor em Horas : '))
 mn = float(input(' Valor em Minutos: '))
 print ('---------------')
-mn2 = hr * 60
 
+mn2 = hr * 60
 resultado = mn2 + mn
 
 print (f' O resultado é {resultado} Minutos ! ')
