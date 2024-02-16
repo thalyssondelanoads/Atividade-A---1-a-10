@@ -1,4 +1,4 @@
-print('Soma de elementos de um número inteiro')
+print('Soma de elementos de um número inteiro de 3 dígitos')
 print('-----------')
 
 numero = int(input(' Digite o número: '))
