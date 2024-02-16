@@ -1,7 +1,5 @@
 print('Soma de elementos de um número inteiro')
 print('-----------')
-print('O número precisa ter obrigatoriamente 3 dígitos')
-print('------------')
 numero = int(input(' Digite o número: '))
 alg_1 = int(numero / 100)
 alg_2 = int(numero % 100 / 10)
