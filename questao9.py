@@ -1,10 +1,10 @@
 print('Inverter Números ')
 print('----------')
 
-A = int(input('Digite o 1° Número: '))
-B = int(input('Digite o 2° Número: '))
+a = int(input('Digite o 1° Número: '))
+b = int(input('Digite o 2° Número: '))
 
 print('-----------')
-print(f'Seus Números são ({A},{B})')
+print(f'Seus Números são ({a},{b})')
 print('---------')
-print(f'A inversão deles é ({B},{A})')
+print(f'A inversão deles é ({b},{a})')
