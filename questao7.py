@@ -1,13 +1,13 @@
 print (' Operações com Inteiros |A,B,C|')
 print (' ------------ ')
 
-A = int(input(' Número A: '))
-B = int(input(' Número B: '))
-C = int(input(' Número C: '))
+a = int(input(' Número A: '))
+b = int(input(' Número B: '))
+c = int(input(' Número C: '))
 print('-------------- ')
 
-soma_ab = A + B
-dif_bc = B - C
+soma_ab = a + b
+dif_bc = b - c
 
 print (f' A soma entre A e B = [{soma_ab}] ')
 print (f' A diferença entre B e C = [{dif_bc}] ')
